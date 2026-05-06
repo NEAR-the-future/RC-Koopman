@@ -35,12 +35,15 @@ python compare_methods.py -d ddr -s 42
 > Aliases: `do` stands for `duffing`, `ddr` stands for `diffdrive`.
 
 ## 📖 Citation
-If you use this repository, please cite:
+If you use this repository, please consider citing our work:
 
-> @misc{Gu2026RCKoopman,
->   author = {Gu, Weibin and Yang, Chen and Shi, Lu},
->   title = {RC-Koopman: Koopman Identification of Nonlinear Systems via Reservoir Liftings},
->   year = {2026},
->   publisher = {GitHub},
->   howpublished = {\url{https://github.com/NEAR-the-future/RC-Koopman}},
-> }
+Gu, Weibin, Chen Yang, and Lu Shi. "Koopman Identification of Nonlinear Systems via Reservoir Liftings." arXiv preprint (2026).
+
+```bibtex
+@article{gu2026koopman,
+  title={Koopman Identification of Nonlinear Systems via Reservoir Liftings},
+  author={Gu, Weibin and Yang, Chen and Shi, Lu},
+  journal={arXiv preprint},
+  year={2026}
+}
+```
