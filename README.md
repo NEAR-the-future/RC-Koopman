@@ -37,13 +37,14 @@ python compare_methods.py -d ddr -s 42
 ## 📖 Citation
 If you use this repository, please consider citing our work:
 
-Gu, Weibin, Chen Yang, and Lu Shi. "Koopman Identification of Nonlinear Systems via Reservoir Liftings." arXiv preprint (2026).
-
 ```bibtex
-@article{gu2026koopman,
-  title={Koopman Identification of Nonlinear Systems via Reservoir Liftings},
-  author={Gu, Weibin and Yang, Chen and Shi, Lu},
-  journal={arXiv preprint},
-  year={2026}
+@misc{gu2026koopmanidentificationnonlinearsystems,
+      title={Koopman Identification of Nonlinear Systems via Reservoir Liftings}, 
+      author={Weibin Gu and Chen Yang and Lu Shi},
+      year={2026},
+      eprint={2605.04917},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.04917}, 
 }
 ```
